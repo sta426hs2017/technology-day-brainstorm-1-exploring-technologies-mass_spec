@@ -3,7 +3,7 @@
 
 ## General idea:
 
-Mass spectrometry (MS) is an analytical technique that ionizes chemical species and sorts the ions based on their mass-to-charge ratio. In simpler terms, a mass spectrum measures the masses within a sample. Mass spectrometry is used in many different fields and is applied to pure samples as well as complex mixtures [wikipedia](https://en.wikipedia.org/wiki/Mass_spectrometry).
+Mass spectrometry (MS) is an analytical technique that ionizes chemical species and sorts the ions based on their mass-to-charge ratio. In simpler terms, a mass spectrum measures the masses within a sample. Mass spectrometry is used in many different fields and is applied to pure samples as well as complex mixtures >[source](https://en.wikipedia.org/wiki/Mass_spectrometry).
 The technique can be coupled to many upstream purification platforms (GC-MS, LC-MS and others)
 
 ## Mechanism:
@@ -14,7 +14,7 @@ The molecules that enter the device are ionized and afterwards separated accordi
 ## Output:
 
 The output of an MS analysis is file containing mass/charge values together with the number of their occurences.
-
+-
 Example output: 
 ![image](http://www.chemguide.co.uk/analysis/masspec/pentanemspec.GIF)
 
