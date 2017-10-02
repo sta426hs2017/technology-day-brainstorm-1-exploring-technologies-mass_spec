@@ -15,6 +15,9 @@ Output:
 
 The output of an MS analysis is file containing mass/charge values together with the number of their occurences.
 
+Example outpult: 
+![image](http://www.chemguide.co.uk/analysis/masspec/pentanemspec.GIF)
+
 Analysis
 
 * Select a candidate peak for the molecular ion
