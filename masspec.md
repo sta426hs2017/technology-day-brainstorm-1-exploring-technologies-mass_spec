@@ -17,7 +17,22 @@ The output of an MS analysis is file containing mass/charge values together with
 
 Analysis
 
+* Select a candidate peak for the molecular ion
+* Examine spectrum for peak clusters of characteristic isotopic patterns
+* Test peak candidate by searching for other peaks correspond to reasonable losses
+* Look for characteristic low-mass fragment ions
+* Compare spectrum to reference spectra, e.g.: [libraries](http://chemdata.nist.gov/dokuwiki/doku.php?id=chemdata:start#libraries)
+
+[source](https://edisciplinas.usp.br/pluginfile.php/144314/mod_resource/content/1/Ms-interpretation2014.pdf)
+
+
 ![image](link)
+
+Useful Links
+
+* MS educational resource: http://www.ionsource.com/
+* Quick steps for data interpretation: http://cbc.arizona.edu/massspec/inter_html/inter.html
+* MS structure and spectrum interpretation: http://cbc.arizona.edu/massspec/intro_html/intro.html
 
 
 
