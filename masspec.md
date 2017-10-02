@@ -14,7 +14,7 @@ The molecules that enter the device are ionized and afterwards separated accordi
 ## Output:
 
 The output of an MS analysis is file containing mass/charge values together with the number of their occurences.
--
+
 Example output: 
 ![image](http://www.chemguide.co.uk/analysis/masspec/pentanemspec.GIF)
 
