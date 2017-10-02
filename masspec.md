@@ -1,24 +1,24 @@
 
-###Brainstorm technology: Mass spectrometry
+### Brainstorm technology: Mass spectrometry
 
-##General idea:
+## General idea:
 
 Mass spectrometry (MS) is an analytical technique that ionizes chemical species and sorts the ions based on their mass-to-charge ratio. In simpler terms, a mass spectrum measures the masses within a sample. Mass spectrometry is used in many different fields and is applied to pure samples as well as complex mixtures [wikipedia](https://en.wikipedia.org/wiki/Mass_spectrometry).
 The technique can be coupled to many upstream purification platforms (GC-MS, LC-MS and others)
 
-##Mechanism:
+## Mechanism:
 
 The molecules that enter the device are ionized and afterwards separated according to their mass/charge ratio. During this process the molecules often break up and the signal of the fragments to be attributed to the original compound.
 
 
-##Output:
+## Output:
 
 The output of an MS analysis is file containing mass/charge values together with the number of their occurences.
 
 Example output: 
 ![image](http://www.chemguide.co.uk/analysis/masspec/pentanemspec.GIF)
 
-##Analysis
+## Analysis
 
 * Select a candidate peak for the molecular ion
 * Examine spectrum for peak clusters of characteristic isotopic patterns
@@ -28,7 +28,7 @@ Example output:
 
 [source](https://edisciplinas.usp.br/pluginfile.php/144314/mod_resource/content/1/Ms-interpretation2014.pdf)
 
-##Useful Links
+## Useful Links
 
 * MS educational resource: http://www.ionsource.com/
 * Quick steps for data interpretation: http://cbc.arizona.edu/massspec/inter_html/inter.html
