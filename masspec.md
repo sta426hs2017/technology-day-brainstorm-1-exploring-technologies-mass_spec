@@ -8,12 +8,12 @@ The technique can be coupled to many upstream purification platforms (GC-MS, LC-
 
 ## Mechanism:
 
-The molecules that enter the device are ionized and afterwards separated according to their mass/charge ratio. During this process the molecules often break up and the signal of the fragments to be attributed to the original compound.
+The molecules that enter the device are ionized and afterwards separated according to their mass/charge ratio. During this process the molecules often break up and the signal of the fragments have to be attributed to the original compound.
 
 
 ## Output:
 
-The output of an MS analysis is file containing mass/charge values together with the number of their occurences.
+The output of an MS analysis is a file containing mass/charge values together with the number of their occurences.
 
 Example output: 
 ![image](http://www.chemguide.co.uk/analysis/masspec/pentanemspec.GIF)
